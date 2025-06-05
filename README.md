@@ -2,7 +2,7 @@
 
 This repository contains the latest version of the full SPOTLESS sample. 
 
-SPOTLESS is a collection of dusty galaxies drawn from \textit{Herschel} surveys. SPOTLESS is based on an extensive decade-long spectroscopic redshift campaign targeting $\sim$300 *Herschel*-selected DSFGs over 1000 $\text{deg}^2$ (Swinbank et al. 2010, Fu et al. 2013, Negrello et al. 2017, Yang et al. 2017, Wu et al. 2019, Neri et al. 2020, Urquhart et al. 2022, Cox et al. 2023 \& references therein). The full SPOTLESS sample is contained in this repository. The spectroscopic redshifts of this subset of *Herschel*-selected DSFGs enable the characterization of galaxies in their immediate environment. SPOTLESS targets are selected at $z \sim 2$ such that H$\alpha$ emission falls within the $K_s$-band, making them suitable for observation with multi-object spectrographs (MOS) and/or narrow-band imagers.
+SPOTLESS is a collection of dusty galaxies drawn from *Herschel* surveys. SPOTLESS is based on an extensive decade-long spectroscopic redshift campaign targeting $\sim 300$ *Herschel*-selected DSFGs over 1000 $\text{deg}^2$ (Swinbank et al. 2010, Fu et al. 2013, Negrello et al. 2017, Yang et al. 2017, Wu et al. 2019, Neri et al. 2020, Urquhart et al. 2022, Cox et al. 2023 \& references therein). The full SPOTLESS sample is contained in this repository. The spectroscopic redshifts of this subset of *Herschel*-selected DSFGs enable the characterization of galaxies in their immediate environment. SPOTLESS targets are selected at $z \sim 2$ such that $\text{H} \alpha$ emission falls within the $K_s$-band, making them suitable for observation with multi-object spectrographs (MOS) and/or narrow-band imagers.
 
 **Zenodo**: https://doi.org/10.5281/zenodo.15539731
 
